@@ -1,0 +1,95 @@
+<!doctype html>
+
+<html class="no-js" lang="en">
+
+
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>SafeMoon Inu - SMI - The community driven gaming & meme token</title>
+    <meta name="description" content="SafeMoon Inu is a community driven gaming & meme token with beyond moon potential"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- Add site Favicon -->
+    <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/png">
+
+ 
+
+
+
+   <!-- CSS  ========================= -->
+
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&family=Roboto&display=swap" rel="stylesheet">
+
+
+
+    <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/slick.css">
+    <link rel="stylesheet" href="assets/css/icofont.min.css">
+    <link rel="stylesheet" href="assets/css/animate.css">
+    <link rel="stylesheet" href="assets/css/nice-select.css">
+    <link rel="stylesheet" href="assets/css/magnific-popup.css">
+    <!-- Main Style CSS -->
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+
+
+<body class="body__bg" data-bgimg="assets/img/bg/body-bg2.webp">
+
+   
+
+  
+
+     <!--offcanvas menu area start-->
+</head>
+
+
+
+<body class="body__bg" data-bgimg="assets/img/bg/body-bg2.webp">
+
+   
+
+  
+
+     <!--offcanvas menu area start-->
+
+     <div class="body_overlay">
+
+                
+
+    </div>
+
+    <div class="offcanvas_menu">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="offcanvas_menu_wrapper">
+                        <div class="canvas_close">
+                            <a href="javascript:void(0)"><i class="icofont-close"></i></a>  
+                        </div>
+                        <div id="menu" class="text-left ">
+                            <ul class="offcanvas_main_menu">
+                                <li class="menu-item-has-children active">
+                                    <a href="index.html">Home</a>
+                                </li>
+                                <li class="menu-item-has-children"><a href="#">Content</a>
+                                    <ul class="sub-menu">
+                                            <li><a href="#about">About</a></li>
+                                            <li><a href="#smi_play">SMI Play</a></li>
+											<li><a href="#moonshot_voyage">Moonshot Voyage</a></li>
+											<li><a href="#nfts">NFTs</a></li>
+                                      		<li><a href="#roadmap">Roadmap</a></li>
+                                       		<li><a href="#tokenomics">Tokenomics</a></li>
+											<li><a href="#merchandise">Merchandise</a></li>
+											<li><a href="#smi_angels">SMI Angels</a></li>
+											<li><a href="#how_to_buy">How to buy</a></li>	
+                                    </ul>
+                                </li>
+                                <li class="menu-item-has-children"><a href="#">Socials</a>
+                                    <ul class="sub-menu">
